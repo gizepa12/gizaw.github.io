@@ -1,0 +1,55 @@
+
+
+body{
+    background: black;
+    color: white;
+}
+h1 {
+    font-family: "Harlow Solid Italic";
+    font-style: italic;
+    color: blueviolet;
+}
+
+h3 {
+    font-family: "Arial Rounded MT Bold";
+    font-style: italic;
+    color: blueviolet;
+}
+.yellow{
+    color: yellow;
+}
+.red{
+    color: red;
+}
+.black{
+    color: white;
+}
+.disc {
+    list-style-type: disc;
+    list-style-position: outside;
+    color: white;
+    list-style-image: none;
+}
+.mood {
+    height: 100px;
+    width: 200px;
+}
+
+.image{
+    height:150px;
+    position:relative;
+    width: 500px;
+}
+.left {
+    margin-right: fill;
+    float:left;
+    position:absolute;
+    bottom:0px;
+}
+.right {
+    margin-left: fill;
+    float:left;
+    position:absolute;
+    bottom:0px;
+    right:0px;
+}
